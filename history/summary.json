@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teknisk-dokumentation",
     "status": "up",
-    "uptime": "2.51%",
-    "uptimeDay": "2.51%",
-    "uptimeWeek": "2.51%",
-    "uptimeMonth": "2.51%",
-    "uptimeYear": "2.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 665,
     "timeWeek": 665,
     "timeMonth": 665,
     "timeYear": 665,
-    "dailyMinutesDown": {
-      "2021-01-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arendehantering",
@@ -79,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "arendehantering",
     "status": "up",
-    "uptime": "2.23%",
-    "uptimeDay": "2.23%",
-    "uptimeWeek": "2.23%",
-    "uptimeMonth": "2.23%",
-    "uptimeYear": "2.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 340,
     "timeWeek": 340,
     "timeMonth": 340,
     "timeYear": 340,
-    "dailyMinutesDown": {
-      "2021-01-05": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
