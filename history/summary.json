@@ -60,9 +60,9 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teknisk-dokumentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 666,
     "timeMonth": 666,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   },
   {
     "name": "Arendehantering",
