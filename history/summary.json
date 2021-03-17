@@ -24,9 +24,9 @@
     "url": "https://dvx.cloud",
     "icon": "https://favicons.githubusercontent.com/dvx.cloud",
     "slug": "devinix-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1007,
     "timeMonth": 1048,
     "timeYear": 963,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   },
   {
     "name": "Microsoft 365",
