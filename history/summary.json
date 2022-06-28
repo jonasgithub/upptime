@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 875,
     "timeDay": 551,
-    "timeWeek": 617,
+    "timeWeek": 648,
     "timeMonth": 663,
     "timeYear": 680,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://dvx.cloud",
     "icon": "https://favicons.githubusercontent.com/dvx.cloud",
     "slug": "devinix-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
